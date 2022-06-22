@@ -1,3 +1,4 @@
-public interface Squareable {
-    void Square;
+public interface ShapeCalculation {
+   float getSquare();
+
 }

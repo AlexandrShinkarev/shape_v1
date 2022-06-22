@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Shape {
+abstract class Shape implements ShapeCalculation{
+    public abstract float getSquare();
+
+
 }
